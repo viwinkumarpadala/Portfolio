@@ -23,7 +23,7 @@ const Home = () => {
 					<button
 						className="text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600"
 						id="viewWorkButton">
-						<a href="/#work">View My Work</a>
+						<a href="#work">View My Work</a>
 						<span className="hover:rotate-90 duration-300">
 							<HiArrowNarrowRight href="#skills" className="ml-1" />
 						</span>
