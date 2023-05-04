@@ -7,16 +7,16 @@ import "./Work.css";
 
 const ownProjects = [
 	{
-		name: "Portfolio website",
-		img_link: VehicleManagementExample,
-		git_link: "https://github.com/viwinkumarpadala/portfolio",
-		display_link: "https://github.com/viwinkumarpadala/vehicle-management/tree/master",
-	},
-	{
 		name: "Ecohub",
 		img_link: EcohubExample,
 		git_link: "https://github.com/viwinkumarpadala/ecohub_final",
 		display_link: "https://ecohub-final-7cei.vercel.app/",
+	},
+	{
+		name: "Portfolio website",
+		img_link: VehicleManagementExample,
+		git_link: "https://github.com/viwinkumarpadala/portfolio",
+		display_link: "https://github.com/viwinkumarpadala/vehicle-management/tree/master",
 	},
 	{
 		name: "Food Delivery",
