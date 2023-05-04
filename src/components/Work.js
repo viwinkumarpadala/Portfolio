@@ -10,18 +10,18 @@ const ownProjects = [
 		name: "Food Delivery",
 		img_link: Fooddeliveryexample,
 		git_link: "https://github.com/viwinkumarpadala/FOOD-DELIVERY-APP/tree/master",
-		display_link: "https://guileless-lamington-bb8aa6.netlify.app/",
+		display_link: "https://github.com/viwinkumarpadala/FOOD-DELIVERY-APP/tree/master",
 	},
 	{
 		name: "Ecohub",
 		img_link: EcohubExample,
-		git_link: "https://github.com/viwinkumarpadala/ecohub/tree/master",
-		display_link: "https://github.com/viwinkumarpadala/ecohub/tree/master",
+		git_link: "https://github.com/viwinkumarpadala/ecohub_final",
+		display_link: "https://ecohub-final-7cei.vercel.app/",
 	},
 	{
-		name: "Command Line Vehicle Management System",
+		name: "Portfolio website",
 		img_link: VehicleManagementExample,
-		git_link: "https://github.com/viwinkumarpadala/vehicle-management/tree/master",
+		git_link: "https://github.com/viwinkumarpadala/portfolio",
 		display_link: "https://github.com/viwinkumarpadala/vehicle-management/tree/master",
 	},
 ];
