@@ -1,6 +1,6 @@
 ## This is my personal portfolio.
 
-https://sparkling-cucurucho-ed47e8.netlify.app/
+Hosted link: https://portfolio-ten-teal-32.vercel.app/
 
 This website contains all my projects including their codes as well as display websites.
 
