@@ -1,7 +1,7 @@
 import React from "react";
 import Fooddeliveryexample from "../assets/Fooddeliveryexample.png";
 import EcohubExample from "../assets/ecohub-example.png";
-import VehicleManagementExample from '../assets/Vehicle Management Example.png';
+import VehicleManagementExample from '../assets/portfolioimg.png';
 
 import "./Work.css";
 
