@@ -18,7 +18,7 @@ const Contact = () => {
 					</div>
 					<p className="text-gray-300 pt-8">
 						Submit the form below or shoot me an email -
-						viwinofficial2002@gnamil.com
+						viwinofficial2002@gmail.com
 					</p>
 				</div>
 				<input
