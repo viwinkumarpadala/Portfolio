@@ -1,7 +1,7 @@
 import React from "react";
-import Fooddeliveryexample from "../assets/Fooddeliveryexample.png";
+import Commsimg from "../assets/Commsimg.png";
 import EcohubExample from "../assets/ecohub-example.png";
-import VehicleManagementExample from '../assets/portfolioimg.png';
+import Cryptoverseimg from '../assets/Cryptoverseimg.png';
 
 import "./Work.css";
 
@@ -9,20 +9,20 @@ const ownProjects = [
 	{
 		name: "Ecohub",
 		img_link: EcohubExample,
-		git_link: "https://github.com/viwinkumarpadala/ecohub_final",
-		display_link: "https://ecohub-final-7cei.vercel.app/",
+		git_link: "https://github.com/viwinkumarpadala/ecohub-MERN",
+		display_link: "https://ecohub-mern.vercel.app/",
 	},
 	{
-		name: "Portfolio website",
-		img_link: VehicleManagementExample,
-		git_link: "https://github.com/viwinkumarpadala/portfolio",
-		display_link: "https://github.com/viwinkumarpadala/vehicle-management/tree/master",
+		name: "Cryptoverse",
+		img_link: Cryptoverseimg,
+		git_link: "https://github.com/viwinkumarpadala/cryptoverse",
+		display_link: "https://cryptoverse-simple.netlify.app/",
 	},
 	{
-		name: "Food Delivery",
-		img_link: Fooddeliveryexample,
-		git_link: "https://github.com/viwinkumarpadala/FOOD-DELIVERY-APP/tree/master",
-		display_link: "https://github.com/viwinkumarpadala/FOOD-DELIVERY-APP/tree/master",
+		name: "Comms",
+		img_link: Commsimg,
+		git_link: "https://github.com/viwinkumarpadala/Comms",
+		display_link: "https://github.com/viwinkumarpadala/Comms",
 	},
 	
 ];
